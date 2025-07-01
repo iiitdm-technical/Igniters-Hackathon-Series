@@ -25,8 +25,8 @@ GitHub: https://github.com/iiitdm-technical/
 
 YouTube: https://www.youtube.com/@iiitdm.technical
 
-WhatsApp Group : https://chat.whatsapp.com/CEjhrp1QolYLs1m4OgslMT
+WhatsApp Group : https://chat.whatsapp.com/CEjhrp1QolYLs1m4OgslMT   [For raising any issues, discussions, doubts - Please Join]
 
-WhatsApp Channel: https://whatsapp.com/channel/0029Vb6beeNInlqK3iOmwZ0h
+WhatsApp Channel: https://whatsapp.com/channel/0029Vb6beeNInlqK3iOmwZ0h   
 
 Linktree: https://linktr.ee/iiitdm.technical
